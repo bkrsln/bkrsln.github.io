@@ -1,6 +1,6 @@
 # main text of home
 name: Bekir Arslan
-bio: Veri bilimci, editör ve içerik yazarıyım. Okumayı, dağları ve yolu seviyorum.
+bio: Data (analytics, storytelling, visualization) developer, editör ve içerik yazarıyım. Okumayı, dağları ve yolu seviyorum.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -36,11 +36,11 @@ disqus:
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
 twitter: bkrsln
-# instagram: myinstagram
+instagram: bkrsln
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
-# spotify: myspotify
+spotify: bkrsln
 github: bkrsln
 # gitlab: mygitlab
 # lastfm: mylastfm
@@ -50,7 +50,7 @@ github: bkrsln
 medium: bekirarslan
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: mail@bekirarslan.info
 
 authors:
   johndoe:
