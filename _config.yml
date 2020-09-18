@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Bekir Arslan
+bio: Veri bilimci, editör ve içerik yazarıyım. Okumayı, dağları ve yolu seviyorum.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -34,20 +34,20 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+# facebook: myfacebook
+twitter: bkrsln
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: bkrsln
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: bekirarslan
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: myemail@gmail.com
