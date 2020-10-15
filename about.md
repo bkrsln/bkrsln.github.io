@@ -4,43 +4,12 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>1986 yılında Kahramanmaraş’ta doğdum. 2004 yılında Afşin Anadolu Lisesi’nden, 2008 yılında Eskişehir Anadolu Üniversitesi Bilgisayar ve Öğretim Teknolojileri Öğretmenliği bölümünden mezun oldum.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Mezun olduktan sonra çalışma hayatıma İstanbul’da başladım. Beş yıl çalıştığım ilk iş yerimde çeşitli web projelerinde yer aldım, tasarım ve içerik yönetimi görevlerinde bulundum. Basılı yayınlar için içerik üretimi ve editörlük ile ilgilenmeye başladım.</p>
 
-<h2>Skills</h2>
+<p>2013 yılının son aylarında İHH‘nın Yayınlar biriminde çalışmaya başladım. Buradaki ilk beş yılımda tasarımla birlikte web ve mobil projelerden kopmadan çeşitli yayınlar için içerik ürettim; yayın yönetmenliği ve editörlük görevlerini üstlendim. Aktif olarak kullanıcı deneyimi tasarımı, anlatı ve hikaye tasarımı, içerik pazarlama, dijital reklamcılık, senaryo yazarlığı, yeni medya strateji geliştirme, bilgi yönetimi gibi çalışmalarda yer aldım. 2018 yılının başında vakıf bünyesinde veri analitiği ve iş zekası üzerine çalışmaya başlayan birimin kurulum aşamalarını yürüttüm ve koordinatörlüğünü üstlendim. Birim bünyesinde kurum içi ve dışı raporlamaların ulusararası standartlara ulaştırılması, kurum verilerinin anlamlı bilgiler haline getirilmesi, karar vericiler için öngörüler hazırlanması, bağışçı ve kanal deneyimi geliştirmeleri gibi projeler için veriye dayalı analitik ve iş zekası çalışmaları yaptım.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<p>Anlık paylaşımlarım için [Twitter](https://twitter.com/bkrsln) ve [Instagram](https://instagram.com/bkrsln) kullanıyor, içeriklerimi [Medium](https://medium.com/@bekirarslan)'da yayınlıyor, müzik ve podcastleri [Spotify](https://open.spotify.com/user/bkrsln)'da dinliyorum. Şu an aktif olmasa da 2008’den bu yana blog yazıyorum. İyi bir içerik tüketicisi olduğumu düşünüyor; tasarım, sinema, tarih, teknoloji ve matematikle özel olarak ilgileniyor; kamp yapmayı, okumayı ve seyahat etmeyi ayrıca seviyorum.</p>
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<p>Evliyim, Meryem’in babasıyım.</p>
